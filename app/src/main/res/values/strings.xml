@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ParseXML</string>
+    <string name="connection_error">Please Check that you are connected to the internet</string>
+</resources>
